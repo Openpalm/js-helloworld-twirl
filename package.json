@@ -1,0 +1,30 @@
+{
+  "name": "express-helloworld-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm t",
+    "start": "node js/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shokodemon/js-helloworld-express.git"
+  },
+  "keywords": [
+    "js",
+    "express",
+    "helloworld",
+    "javascript"
+  ],
+  "author": "bassel khatib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shokodemon/js-helloworld-express/issues"
+  },
+  "homepage": "https://github.com/Shokodemon/js-helloworld-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  }
+}
